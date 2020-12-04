@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alparslanabdikoglu&label=Profile%20views&color=0e75b6&style=flat" alt="alparslanabdikoglu" /> </p>
 
-- 🔭 I’m currently working on **WOW kis okos**
+- 🔭 I’m currently working on **WOW kis okos** + **personal cloud storage for my family**
 
 - I'm currently learning **Linux**
 
