@@ -38,28 +38,6 @@
 <br/>  
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-<br/>  
-
-
-<br/>  
-
 <div align="center">
             <a href="" target="_blank" style="display: inline-block;">
                 <img
