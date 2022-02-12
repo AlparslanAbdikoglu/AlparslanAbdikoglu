@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm Alparslan Abdikoglu  a freelance developer, ICO at my own startup 👨‍💻 working on myself to be a better dev</div>  
+### <div align="center">I'm Alparslan Abdikoglu  a ICO at my own startup 👨‍💻 working on myself to be a better dev</div>  
   
 
 - 🔭 I’m currently working on [Cashier Basket.com] & working on [Subirat.net](https://subirat.net/)   
   
 
-- 🌱 I’m currently learning Vue   
+- 🌱 I’m currently etichal hacking
   
 
 - 😍Interested in Cyber Security  
