@@ -3,16 +3,16 @@
 </div>  
   
 
-### <div align="center">I'm Alparslan Abdikoglu  a ICO at my own startup 👨‍💻 working on myself to be a better dev</div>  
+### <div align="center">I'm Alparslan Abdikoglu  a CIO at my own startup 👨‍💻 working on myself to be a better dev</div>  
   
 
 - 🔭 I’m currently working on [Cashier Basket.com] & working on [Subirat.net](https://subirat.net/)   
   
 
-- 🌱 I’m currently etichal hacking
+- 🌱 I’m currently learning aws services,aws certs
   
 
-- 😍Interested in Cyber Security  
+- 😍Interested in Cyber Security, Cloud hosting, Cloud eng 
   
 
 - ⚡ Fun fact: I want to paricipate in a CTF  
