@@ -68,27 +68,6 @@ working on myself to be a better dev
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
 
 <br />
 
