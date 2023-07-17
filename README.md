@@ -24,7 +24,7 @@ working on myself to be a better dev
 - 🔭 I’m currently working on Cashierbasket.com, Subirat.net and my own portolio  
   
 
-- 🌱 I’m currently learning aws services, aws certs and react  
+- 🌱 I’m currently learning aws services, certs related to cyber security and  more react  
   
 
 - ❓ Ask me about anything related to crypto  
