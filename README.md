@@ -1,4 +1,4 @@
-## Hey 👋, I'm Alparslan Abdikoglu  a CIO at my own startup 👨‍💻   
+## Hey 👋, I'm Alparslan Abdikoglu  an ex CIO from my startup 👨‍💻   
   
 
 <a href="https://github.com/AlparslanAbdikoglu" target="_blank">
@@ -21,10 +21,10 @@ working on myself to be a better dev
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on Cashierbasket.com, Subirat.net and my own portolio  
+- 🔭 I’m currently working on  my own portolio  
   
 
-- 🌱 I’m currently learning aws services, certs related to cyber security and  more react  
+- 🌱 I’m currently learning  more react  with a little bit of touch for react native
   
 
 - ❓ Ask me about anything related to crypto  
