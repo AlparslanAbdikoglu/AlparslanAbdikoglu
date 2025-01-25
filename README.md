@@ -1,47 +1,13 @@
-## Hey 👋, I'm Alparslan Abdikoglu  an ex CIO from my startup 👨‍💻   
+## Hey 👋, I'm Alparslan Abdikoglu
   
 
-<a href="https://github.com/AlparslanAbdikoglu" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://gitlab.com/Alpii" target="_blank">
-<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>  
-  
+About Me:
+💻 Currently working on my personal portfolio to showcase my journey.
+🌱 Exploring deeper into React and experimenting with React Native on the side.
+💡 Ask me about crypto – I’m always up for a good conversation!
+🔐 Fun fact: I’m fascinated by cybersecurity and diving into CTFs—they’re like brainy treasure hunts.
 
-
-
-### Glad to see you here!  
-working on myself to be a better dev  
-  
-
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on  my own portolio  
-  
-
-- 🌱 I’m currently learning  more react  with a little bit of touch for react native
-  
-
-- ❓ Ask me about anything related to crypto  
-  
-
-- ⚡ Fun fact:  I'm interested in cyber security ctfs looks fun  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
+Always striving to level up my skills.
 <br/>  
 
 
