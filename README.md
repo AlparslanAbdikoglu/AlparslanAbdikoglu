@@ -3,9 +3,6 @@
 
 About Me:
 💻 Currently working on my personal portfolio to showcase my journey.
-🌱 Exploring deeper into React and experimenting with React Native on the side.
-💡 Ask me about crypto – I’m always up for a good conversation!
-🔐 Fun fact: I’m fascinated by cybersecurity and diving into CTFs—they’re like brainy treasure hunts.
 
 Always striving to level up my skills.
 <br/>  
